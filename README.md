@@ -17,3 +17,16 @@
 
 1. download the clean books dataset on [books_data.csv](https://drive.google.com/file/d/1gbS0ArrQExkqEjE4l3gm7P_fB-BQiKxW/view?usp=share_link)
 2. download cosine similarity on [cosine_similarity.csv](https://drive.google.com/file/d/17drmU-ncXP5UCwzQrfqy7uIYeyJZUNcI/view?usp=share_link)
+3. download requirements.txt with **pip install -r requirements.txt**
+4. run **python3 app.py**
+5. Test on your postman with method POST and endpoint **/books_recommendations**
+6. Use key on your body as **book_title** and type your favorite's book title as value
+
+### You will get this result
+
+![image](https://user-images.githubusercontent.com/91602612/206841953-9dfd102a-0925-4471-ac9b-d77b36a5ee58.png)
+
+![image](https://user-images.githubusercontent.com/91602612/206841973-91712ed5-8e74-4fb8-9404-e8ea3f8b5c94.png)
+
+
+
